@@ -34,7 +34,7 @@
 
 <p align="center">
   <a href="https://www.instagram.com/pedro.augg/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="35" alt="Instagram"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/instagram.svg" height="35" alt="Instagram"/>
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/pedro-lombardi-7781522b7" target="_blank">
